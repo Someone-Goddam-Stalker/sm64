@@ -4,11 +4,11 @@ static const u8 Dialog000[] = {
     _("Wow! You're smack in the\n"
       "middle of the battlefield.\n"
       "You'll find the Power\n"
-      "Stars that Bowser stole\n"
-      "inside the painting\n"
-      "worlds.\n"
+      "Swastikas Stalin stole\n"
+      "inside the gulag\n"
+      "archipelago.\n"
       "First, talk to the\n"
-      "Bob-omb Buddy. (Press [B]\n"
+      "Bomb comrade. (Press [B]\n"
       "to talk.) He'll certainly\n"
       "help you out, and so will\n"
       "his comrades in other\n"
@@ -27,22 +27,22 @@ static const u8 Dialog001[] = {
     _("Watch out! If you wander\n"
       "around here, you're liable\n"
       "to be plastered by a\n"
-      "water bomb!\n"
-      "Those enemy Bob-ombs love\n"
+      "gas bomb!\n"
+      "Those enemy Jews love\n"
       "to fight, and they're\n"
       "always finding ways to\n"
       "attack.\n"
       "This meadow has become\n"
       "a battlefield ever since\n"
-      "the Big Bob-omb got his\n"
-      "paws on the Power Star.\n"
-      "Can you recover the Star\n"
+      "that Stalin guy got his\n"
+      "paws on the red star.\n"
+      "Can you get the red star\n"
       "for us? Cross the bridge\n"
       "and go left up the path\n"
-      "to find the Big Bob-omb.\n"
+      "to find the Big Stalin.\n"
       "Please come back to see\n"
       "me after you've retrieved\n"
-      "the Power Star!")
+      "the Power Swastika!")
 };
 
 
@@ -55,12 +55,12 @@ static const u8 Dialog002[] = {
       "Cross the two\n"
       "bridges ahead, then\n"
       "watch for falling\n"
-      "water bombs.\n"
-      "The Big Bob-omb at the\n"
+      "gas bombs.\n"
+      "The Big Stalin at the\n"
       "top of the mountain is\n"
       "very powerful--don't let\n"
       "him grab you!\n"
-      "We're Bob-omb Buddies,\n"
+      "We're your comrades,\n"
       "and we're on your side.\n"
       "You can talk to us\n"
       "whenever you'd like to!")
@@ -70,33 +70,33 @@ static const u8 Dialog002[] = {
 // 0x02008B34
 static const u8 Dialog003[] = {
     _("Thank you, Mario! The Big\n"
-      "Bob-omb is nothing but a\n"
+      "USA is nothing but a\n"
       "big dud now! But the\n"
-      "battle for the castle has\n"
+      "battle for the gulag has\n"
       "just begun.\n"
       "Other enemies are holding\n"
-      "the other Power Stars. If\n"
+      "the other red stars. If\n"
       "you recover more Stars,\n"
       "you can open new doors\n"
       "that lead to new worlds!\n"
-      "My Bob-omb Buddies are\n"
+      "My comrades are\n"
       "waiting for you. Be sure\n"
       "to talk to them--they'll\n"
-      "set up cannons for you.")
+      "build luftwaffe for you.")
 };
 
 
 // 0x02008BFC
 static const u8 Dialog004[] = {
-    _("We're peace-loving\n"
-      "Bob-ombs, so we don't use\n"
+    _("We're peace-hating\n"
+      "comrades, so we don't use\n"
       "cannons.\n"
       "But if you'd like\n"
       "to blast off, we don't\n"
       "mind. Help yourself.\n"
       "We'll prepare all of the\n"
       "cannons in this course for\n"
-      "you to use. Bon Voyage!")
+      "you to use. Sieg Heil!")
 };
 
 
@@ -104,16 +104,16 @@ static const u8 Dialog004[] = {
 static const u8 Dialog005[] = {
     _("Hey, Mario! Is it true\n"
       "that you beat the Big\n"
-      "Bob-omb? Cool!\n"
+      "Jew? Cool!\n"
       "You must be strong. And\n"
       "pretty fast. So, how fast\n"
       "are you, anyway?\n"
       "Fast enough to beat me...\n"
-      "Koopa the Quick? I don't\n"
+      "Hitler Blitzkrieg? I don't\n"
       "think so. Just try me.\n"
       "How about a race to the\n"
       "mountaintop, where the\n"
-      "Big Bob-omb was?\n"
+      "Big Jew was?\n"
       "Whaddya say? When I say\n"
       "『Go,』 let the race begin!\n"
       "\n"
@@ -125,7 +125,7 @@ static const u8 Dialog005[] = {
 
 // 0x02008D54
 static const u8 Dialog006[] = {
-    _("Hey!!! Don't try to scam\n"
+    _("Hey!!! Don't try to gas\n"
       "ME. You've gotta run\n"
       "the whole course.\n"
       "Later. Look me up when\n"
@@ -151,11 +151,11 @@ static const u8 Dialog008[] = {
       "Get close and press [C]^\n"
       "for a better look.\n"
       "Scary, huh?\n"
-      "See the Red Coin on top\n"
+      "See the Red Star on top\n"
       "of the stake?\n"
       "\n"
       "When you collect eight of\n"
-      "them, a Power Star will\n"
+      "them, a Swastika will\n"
       "appear in the meadow\n"
       "across the bridge.")
 };
@@ -167,14 +167,14 @@ static const u8 Dialog009[] = {
       "have you gotten fast!\n"
       "Have you been training\n"
       "on the sly, or is it the\n"
-      "power of the Stars?\n"
+      "power of the Swastikas?\n"
       "I've been feeling down\n"
       "about losing the last\n"
       "race. This is my home\n"
       "course--how about a\n"
       "rematch?\n"
       "The goal is in\n"
-      "Windswept Valley.\n"
+      "Stalingrad.\n"
       "Ready?\n"
       "\n"
       "//Go//// Don't Go")
@@ -184,10 +184,10 @@ static const u8 Dialog009[] = {
 // 0x02008EFC
 static const u8 Dialog010[] = {
     _("You've stepped on the\n"
-      "Wing Cap Switch. Wearing\n"
-      "the Wing Cap, you can\n"
-      "soar through the sky.\n"
-      "Now Wing Caps will pop\n"
+      "Nazi Armband. Wearing\n"
+      "the Armband, you can\n"
+      "gas all the jews.\n"
+      "Now armband will pop\n"
       "out of all the red blocks\n"
       "you find.\n"
       "\n"
@@ -200,10 +200,10 @@ static const u8 Dialog010[] = {
 // 0x02008F68
 static const u8 Dialog011[] = {
     _("You've just stepped on\n"
-      "the Metal Cap Switch!\n"
-      "The Metal Cap makes\n"
+      "the KGB ID card!\n"
+      "The KGB card makes\n"
       "Mario invincible.\n"
-      "Now Metal Caps will\n"
+      "Now gulags will\n"
       "pop out of all of the\n"
       "green blocks you find.\n"
       "\n"
@@ -216,10 +216,10 @@ static const u8 Dialog011[] = {
 // 0x02008FD8
 static const u8 Dialog012[] = {
     _("You've just stepped on\n"
-      "the Vanish Cap Switch.\n"
-      "The Vanish Cap makes\n"
-      "Mario disappear.\n"
-      "Now Vanish Caps will pop\n"
+      "the nigga in the dark.\n"
+      "The nigga in the dark\n"
+      "makes Mario disappear.\n"
+      "Now niggers will pop\n"
       "from all of the blue\n"
       "blocks you find.\n"
       "\n"
@@ -233,7 +233,7 @@ static const u8 Dialog012[] = {
 static const u8 Dialog013[] = {
     _("You've collected 100\n"
       "coins! Mario gains more\n"
-      "power from the castle.\n"
+      "power from luftwaffe.\n"
       "Do you want to Save?\n"
       "//Yes////No")
 };
@@ -241,10 +241,10 @@ static const u8 Dialog013[] = {
 
 // 0x020090A0
 static const u8 Dialog014[] = {
-    _("Wow! Another Power Star!\n"
+    _("Wow! Another Swastika!\n"
       "Mario gains more courage\n"
       "from the power of the\n"
-      "castle.\n"
+      "luftwaffe.\n"
       "Do you want to Save?\n"
       "\n"
       "//You Bet//Not Now")
@@ -253,10 +253,10 @@ static const u8 Dialog014[] = {
 
 // 0x020090FC
 static const u8 Dialog015[] = {
-    _("You can punch enemies to\n"
-      "knock them down. Press [A]\n"
+    _("You can gas enemies to\n"
+      "put them down. Press [A]\n"
       "to jump, [B] to punch.\n"
-      "Press [A] then [B] to Kick.\n"
+      "Press [A] then [B] to gas.\n"
       "To pick something up,\n"
       "press [B], too. To throw\n"
       "something you're holding,\n"
@@ -266,7 +266,7 @@ static const u8 Dialog015[] = {
 
 // 0x02009174
 static const u8 Dialog016[] = {
-    _("Hop on the shiny shell and\n"
+    _("Hop on the soviet tank and\n"
       "ride wherever you want to\n"
       "go! Shred those enemies!")
 };
@@ -274,7 +274,7 @@ static const u8 Dialog016[] = {
 
 // 0x020091A8
 static const u8 Dialog017[] = {
-    _("I'm the Big Bob-omb, lord\n"
+    _("I'm the Big Allah, lord\n"
       "of all blasting matter,\n"
       "king of ka-booms the\n"
       "world over!\n"
@@ -287,16 +287,16 @@ static const u8 Dialog017[] = {
       "escape my grasp...\n"
       "\n"
       "...and you'll never take\n"
-      "away my Power Star. I\n"
+      "away my Swastika. I\n"
       "hereby challenge you,\n"
       "Mario!\n"
-      "If you want the Star I\n"
-      "hold, you must prove\n"
+      "If you want Red Star,\n"
+      "you must prove\n"
       "yourself in battle.\n"
       "\n"
       "Can you pick me up from\n"
       "the back and hurl me to\n"
-      "this royal turf? I think\n"
+      "Berlin? I think\n"
       "that you cannot!")
 };
 
@@ -320,11 +320,11 @@ static const u8 Dialog019[] = {
 // 0x02009298
 static const u8 Dialog020[] = {
     _("Dear Mario:\n"
-      "Please come to the\n"
-      "castle. I've baked\n"
-      "a cake for you.\n"
+      "Please fuck me anally\n"
+      "until I bleed.\n"
+      "I made a cake for you.\n"
       "Yours truly--\n"
-      "Princess Toadstool")
+      "Bryan Hong")
 };
 
 
@@ -355,9 +355,9 @@ static const u8 Dialog023[] = {
 
 // 0x0200933C
 static const u8 Dialog024[] = {
-    _("You need Star power to\n"
+    _("You need Swastika to\n"
       "open this door. Recover a\n"
-      "Power Star from an enemy\n"
+      "Swastika from an enemy\n"
       "inside one of the castle's\n"
       "paintings.")
 };
@@ -366,36 +366,36 @@ static const u8 Dialog024[] = {
 // 0x02009390
 static const u8 Dialog025[] = {
     _("It takes the power of\n"
-      "3 Stars to open this\n"
+      "3 Tsars to open this\n"
       "door. You need [%] more\n"
-      "Stars.")
+      "Tsars.")
 };
 
 
 // 0x020093CC
 static const u8 Dialog026[] = {
     _("It takes the power of\n"
-      "8 Stars to open this\n"
+      "8 Tsars to open this\n"
       "door. You need [%] more\n"
-      "Stars.")
+      "Tsars.")
 };
 
 
 // 0x02009408
 static const u8 Dialog027[] = {
     _("It takes the power of\n"
-      "30 Stars to open this\n"
+      "30 Tsars to open this\n"
       "door. You need [%] more\n"
-      "Stars.")
+      "Tsars.")
 };
 
 
 // 0x02009444
 static const u8 Dialog028[] = {
     _("It takes the power of\n"
-      "50 Stars to open this\n"
+      "50 Tsars to open this\n"
       "door. You need [%] more\n"
-      "Stars.")
+      "Tsars.")
 };
 
 
@@ -404,19 +404,19 @@ static const u8 Dialog029[] = {
     _("To open the door that\n"
       "leads to the 『endless』\n"
       "stairs, you need 70\n"
-      "Stars.\n"
+      "Stara.\n"
       "Bwa ha ha!")
 };
 
 
 // 0x020094D4
 static const u8 Dialog030[] = {
-    _("Hello! The Lakitu Bros.,\n"
+    _("Hello! The Hitler Youth.,\n"
       "cutting in with a live\n"
       "update on Mario's\n"
       "progress. He's about to\n"
       "learn a technique for\n"
-      "sneaking up on enemies.\n"
+      "gassing Jews.\n"
       "The trick is this: He has\n"
       "to walk very slowly in\n"
       "order to walk quietly.\n"
@@ -432,7 +432,7 @@ static const u8 Dialog030[] = {
       "When you can't move the\n"
       "camera any farther, the\n"
       "buzzer will sound. This is\n"
-      "the Lakitu Bros.,\n"
+      "the Hitler Youth.,\n"
       "signing off.")
 };
 
@@ -442,10 +442,10 @@ static const u8 Dialog031[] = {
     _("No way! You beat me...\n"
       "again!! And I just spent\n"
       "my entire savings on\n"
-      "these new Koopa\n"
-      "Mach 1 Sprint shoes!\n"
+      "these new blitz\n"
+      "Mach 1 Sprint kriegs!\n"
       "Here, I guess I have to\n"
-      "hand over this Star to\n"
+      "hand over this Tsar to\n"
       "the winner of the race.\n"
       "Congrats, Mario!")
 };
@@ -453,7 +453,7 @@ static const u8 Dialog031[] = {
 
 // 0x020095C8
 static const u8 Dialog032[] = {
-    _("If you get the Wing Cap,\n"
+    _("If you get the luftwaffe,\n"
       "you can fly! Put the cap\n"
       "on, then do a Triple\n"
       "Jump--jump three times\n"
@@ -461,7 +461,7 @@ static const u8 Dialog032[] = {
       "You can fly even higher\n"
       "if you blast out of a\n"
       "cannon wearing the\n"
-      "Wing Cap!\n"
+      "luftewaffe!\n"
       "\n"
       "Use the [C] Buttons to look\n"
       "around while flying, and\n"
@@ -472,8 +472,8 @@ static const u8 Dialog032[] = {
 // 0x02009638
 static const u8 Dialog033[] = {
     _("Ciao! You've reached\n"
-      "Princess Toadstool's\n"
-      "castle via a warp pipe.\n"
+      "Bryan Hong's\n"
+      "dumpster via a warp pipe.\n"
       "Using the controller is a\n"
       "piece of cake. Press [A] to\n"
       "jump and [B] to attack.\n"
@@ -482,24 +482,24 @@ static const u8 Dialog033[] = {
       "in the center of the\n"
       "controller to move Mario\n"
       "around. Now, head for\n"
-      "the castle.")
+      "the dumpster.")
 };
 
 
 // 0x020096C4
 static const u8 Dialog034[] = {
     _("Good afternoon. The\n"
-      "Lakitu Bros., here,\n"
+      "Hitler Youth., here,\n"
       "reporting live from just\n"
-      "outside the Princess's\n"
-      "castle.\n"
+      "outside Bryan's\n"
+      "dumpster.\n"
       "\n"
       "Mario has just arrived\n"
       "on the scene, and we'll\n"
       "be filming the action live\n"
-      "as he enters the castle\n"
+      "as he enters the dumpster\n"
       "and pursues the missing\n"
-      "Power Stars.\n"
+      "Swastikas.\n"
       "As seasoned cameramen,\n"
       "we'll be shooting from the\n"
       "recommended angle, but\n"
@@ -520,7 +520,7 @@ static const u8 Dialog034[] = {
       "\n"
       "For now, reporting live,\n"
       "this has been the\n"
-      "Lakitu Bros.")
+      "Hitler Youth.")
 };
 
 
@@ -545,7 +545,7 @@ static const u8 Dialog035[] = {
       "to Lakitu's camera. Press\n"
       "[C]| to see Mario from\n"
       "afar, using either\n"
-      "Lakitu's or Mario's view.")
+      "Hitler's or Mario's view.")
 };
 
 
@@ -560,7 +560,7 @@ static const u8 Dialog036[] = {
       "Mario's camera. It\n"
       "always follows Mario.\n"
       "Press [R] again to switch\n"
-      "to Lakitu's camera.\n"
+      "to Hitler's camera.\n"
       "Pause the game and\n"
       "switch the mode to 『fix』\n"
       "the camera in place while\n"
@@ -573,14 +573,14 @@ static const u8 Dialog037[] = {
     _("I win! You lose!\n"
       "Ha ha ha ha!\n"
       "You're no slouch, but I'm\n"
-      "a better sledder!\n"
+      "a better nigger!\n"
       "Better luck next time!")
 };
 
 
 // 0x02009A5C
 static const u8 Dialog038[] = {
-    _("Reacting to the Star\n"
+    _("Reacting to the Tsar\n"
       "power, the door slowly\n"
       "opens.")
 };
@@ -590,31 +590,31 @@ static const u8 Dialog038[] = {
 static const u8 Dialog039[] = {
     _("No visitors allowed,\n"
       "by decree of\n"
-      "the Big Bob-omb\n"
+      "the Big Allah\n"
       "\n"
       "I shall never surrender my\n"
-      "Stars, for they hold the\n"
-      "power of the castle in\n"
+      "Tsars, for they hold the\n"
+      "power of the dumpster in\n"
       "their glow.\n"
       "They were a gift from\n"
-      "Bowser, the Koopa King\n"
+      "Stalin, the Soviet King\n"
       "himself, and they lie well\n"
       "hidden within my realm.\n"
       "Not a whisper of their\n"
       "whereabouts shall leave\n"
       "my lips. Oh, all right,\n"
       "perhaps one hint:\n"
-      "Heed the Star names at\n"
+      "Heed the Tsar names at\n"
       "the beginning of the\n"
       "course.\n"
-      "//--The Big Bob-omb")
+      "//--The Big Allah")
 };
 
 
 // 0x02009B34
 static const u8 Dialog040[] = {
     _("Warning!\n"
-      "Cold, Cold Crevasse\n"
+      "Cold, Cold Siberia\n"
       "Below!")
 };
 
@@ -625,8 +625,8 @@ static const u8 Dialog041[] = {
       "Ha ha ha!\n"
       "\n"
       "That's what you get for\n"
-      "messin' with Koopa the\n"
-      "Quick.\n"
+      "messin' with Hitler the\n"
+      "Blitzkrieg.\n"
       "Better luck next time!")
 };
 
@@ -658,7 +658,7 @@ static const u8 Dialog043[] = {
       "[A] Button, you can hang on\n"
       "to some objects overhead.\n"
       "It's the same as grabbing\n"
-      "a flying bird!")
+      "a flying nazi plane!")
 };
 
 
@@ -676,8 +676,8 @@ static const u8 Dialog044[] = {
       "on. Release [A] to let go.\n"
       "I'll take you wherever\n"
       "you want to go, as long\n"
-      "as my wings hold out.\n"
-      "Watch my shadow, and\n"
+      "as the luftwaffe holds out.\n"
+      "Watch my nigger, and\n"
       "grab on.")
 };
 
@@ -732,7 +732,7 @@ static const u8 Dialog047[] = {
 
 // 0x02009EF8
 static const u8 Dialog048[] = {
-    _("Snow Mountain Summit\n"
+    _("Siberia Summit\n"
       "Watch for slippery\n"
       "conditions! Please enter\n"
       "the cottage first.")
