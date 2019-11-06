@@ -8,7 +8,7 @@ static const u8 Dialog000[] = {
       "inside the gulag\n"
       "archipelago.\n"
       "First, talk to the\n"
-      "Bomb comrade. (Press [B]\n"
+      "Muslim. (Press [B]\n"
       "to talk.) He'll certainly\n"
       "help you out, and so will\n"
       "his comrades in other\n"
@@ -56,10 +56,10 @@ static const u8 Dialog002[] = {
       "bridges ahead, then\n"
       "watch for falling\n"
       "gas bombs.\n"
-      "The Big Stalin at the\n"
+      "The Big Muslim at the\n"
       "top of the mountain is\n"
       "very powerful--don't let\n"
-      "him grab you!\n"
+      "him Allah Ackbar you!\n"
       "We're your comrades,\n"
       "and we're on your side.\n"
       "You can talk to us\n"
@@ -89,8 +89,8 @@ static const u8 Dialog003[] = {
 // 0x02008BFC
 static const u8 Dialog004[] = {
     _("We're peace-hating\n"
-      "comrades, so we don't use\n"
-      "cannons.\n"
+      "comrades, so we use\n"
+      "gas cannons.\n"
       "But if you'd like\n"
       "to blast off, we don't\n"
       "mind. Help yourself.\n"
@@ -104,7 +104,7 @@ static const u8 Dialog004[] = {
 static const u8 Dialog005[] = {
     _("Hey, Mario! Is it true\n"
       "that you beat the Big\n"
-      "Jew? Cool!\n"
+      "Muslim? Cool!\n"
       "You must be strong. And\n"
       "pretty fast. So, how fast\n"
       "are you, anyway?\n"
@@ -113,7 +113,7 @@ static const u8 Dialog005[] = {
       "think so. Just try me.\n"
       "How about a race to the\n"
       "mountaintop, where the\n"
-      "Big Jew was?\n"
+      "Big Muslim was?\n"
       "Whaddya say? When I say\n"
       "『Go,』 let the race begin!\n"
       "\n"
@@ -138,7 +138,7 @@ static const u8 Dialog006[] = {
 static const u8 Dialog007[] = {
     _("Hufff...fff...pufff...\n"
       "Whoa! You...really...are...\n"
-      "fast! A human blur!\n"
+      "fast! An Aryan blur!\n"
       "Here you go--you've won\n"
       "it, fair and square!")
 };
@@ -210,7 +210,7 @@ static const u8 Dialog011[] = {
       "Would you like to Save?\n"
       "\n"
       "//Yes////No")
-};
+};  
 
 
 // 0x02008FD8
